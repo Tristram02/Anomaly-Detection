@@ -33,7 +33,7 @@ Anomaly detection is the identification of rare items, events, or observations t
 - Multiple preprocessing strategies (standard scaling, robust scaling)
 - Extensive visualization (PR curves, ROC curves, heatmaps)
 
-**[View Project →](<Tabulated%20(multidimensional)%20data:%20a%20comparison%20of%20classical%20methods/>)**
+**[View Project →](Tabulated%20(multidimensional)%20data%3%20a%20comparison%20of%20classical%20methods/)**
 
 ---
 
