@@ -33,7 +33,7 @@ Anomaly detection is the identification of rare items, events, or observations t
 - Multiple preprocessing strategies (standard scaling, robust scaling)
 - Extensive visualization (PR curves, ROC curves, heatmaps)
 
-**[View Project →](Tabulated%20(multidimensional)%20data%3%20a%20comparison%20of%20classical%20methods/)**
+**[View Project →](Tabulated%20%28multidimensional%29%20data%3A%20a%20comparison%20of%20classical%20methods/)**
 
 ---
 
@@ -57,7 +57,7 @@ Anomaly detection is the identification of rare items, events, or observations t
 - Side-by-side comparison of classical vs. deep learning performance
 - Modular architecture with reusable components
 
-**[View Project →](Time%20Series%20Data:%20A%20Comparison%20of%20Classical%20and%20Deep%20Methods/)**
+**[View Project →](Time%20Series%20Data%3A%20A%20Comparison%20of%20Classical%20and%20Deep%20Methods/)**
 
 ---
 
