@@ -1,0 +1,6 @@
+plots/
+results/
+report/
+*.png
+*.pdf
+*.txt
